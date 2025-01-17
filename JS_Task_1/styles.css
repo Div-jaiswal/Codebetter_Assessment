@@ -1,0 +1,16 @@
+body {
+    background-color: #d5f1f0; 
+    color: #333; 
+    font-family: Arial, sans-serif;
+  }
+  
+  .d-none {
+    display: none;
+  }
+  
+  #start-screen{
+    position: absolute;
+    top: 250px;
+    left: 560px;
+  } 
+  
